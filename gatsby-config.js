@@ -1,5 +1,8 @@
 // in gatsby-config.js
 module.exports = {
+  pathPrefix: "/sailsbibx",
+}
+module.exports = {
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
