@@ -14,7 +14,6 @@ module.exports = {
         theme_color: `#a2466c`,
         display: `standalone`,
         icon: `src/images/ghost2.png`, // This path is relative to the root of the site.
-        icon: `src/images/ghost.png`, // This path is relative to the root of the site.
       },
     },
   ],
