@@ -6,7 +6,7 @@ Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby star
 
 ## Preview
 
-https://gatsby-lander.surge.sh/
+https://sailsbib.com/
 
 ## Installation
 
