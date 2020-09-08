@@ -7,6 +7,7 @@ import Layout from '../components/layout/Layout';
 import SplitSection from '../components/SplitSection';
 import StatsBox from '../components/StatsBox';
 import customerData from '../data/customer-data';
+import {link} from 'gatsby';
 import HeroImage from '../svg/HeroImage';
 import SvgCharts from '../svg/SvgCharts';
 
@@ -25,7 +26,11 @@ export default () => (
 
 
           <p className="mt-8 md:mt-12">
-            <Button size="lg">Get Started</Button>
+
+
+              <a className="text-sm" href="https://mailchi.mp/24e94c1a9ca3/market-analysis"target="_blank"> <Button size="lg">Get Started</Button> </a>
+
+
           </p>
           <p className="mt-4 text-gray-600">sales win loss analysis</p>
         </div>
@@ -141,7 +146,9 @@ export default () => (
       integrated processes that will allow your business to scale logistics, and other essential metrics.
       </p>
       <p className="mt-8">
-        <Button size="xl">Get Started Now</Button>
+
+      <a className="text-sm" href="https://mailchi.mp/24e94c1a9ca3/market-analysis"target="_blank"> <Button size="xl">Get Started Now</Button> </a> 
+
       </p>
     </section>
   </Layout>

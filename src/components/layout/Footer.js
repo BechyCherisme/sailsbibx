@@ -1,5 +1,5 @@
 import React from 'react';
-import {link} from "gatsby"
+import {link} from 'gatsby';
 
 const Footer = () => (
   <footer className="container mx-auto py-16 px-3 mt-48 mb-8 text-gray-800">
