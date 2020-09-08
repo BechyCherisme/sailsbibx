@@ -1,7 +1,6 @@
 import React from 'react';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 import Button from '../Button';
-import {link} from 'gatsby';
 import ghost2 from '../../images/ghost2.png';
 const Header = () => (
   <header className="sticky top-0 bg-white shadow">
