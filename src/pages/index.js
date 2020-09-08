@@ -10,9 +10,18 @@ import customerData from '../data/customer-data';
 import {link} from 'gatsby';
 import HeroImage from '../svg/HeroImage';
 import SvgCharts from '../svg/SvgCharts';
+import { Helmet } from "react-helmet";
 
 export default () => (
   <Layout>
+          <div className="application">
+        <Helmet>
+          <meta charSet="utf-8" />
+          <title>Sailsbib | Market |analysis perspective</title>
+          <link rel="canonical" href="http://sailsbib.com/" />
+        </Helmet>
+      </div>
+
     <section className="pt-20 md:pt-40">
       <div className="container mx-auto px-8 lg:flex">
         <div className="text-center lg:text-left lg:w-1/2">
