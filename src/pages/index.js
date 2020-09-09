@@ -10,11 +10,24 @@ import customerData from '../data/customer-data';
 import HeroImage from '../svg/HeroImage';
 import SvgCharts from '../svg/SvgCharts';
 import { Helmet } from "react-helmet";
+import favicon16 from "../images/favicon16.png";
+import favicon32 from "../images/favicon32.png";
+import favicon64 from "../images/favicon64.png";
+
+
 
 export default () => (
   <Layout>
     
+    <Helmet
+  link={[
+    { rel: "icon", type: "image/png", sizes: "16x16", href: `${favicon16}` },
+    { rel: "icon", type: "image/png", sizes: "32x32", href: `${favicon32}` },
+    { rel: "shortcut icon", type: "image/png", href: `${favicon64}` },
+  ]}
+/>
 
+ 
           <div className="application">
         <Helmet>
           <meta charSet="utf-8" />

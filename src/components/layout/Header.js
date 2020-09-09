@@ -2,6 +2,8 @@ import React from 'react';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 import Button from '../Button';
 import ghost2 from '../../images/ghost2.png';
+
+
 const Header = () => (
   <header className="sticky top-0 bg-white shadow">
     <div className="container flex flex-col sm:flex-row justify-between items-center mx-auto py-4 px-8">
@@ -9,8 +11,6 @@ const Header = () => (
         <div className="w-12 mr-3"><div>
           <img src={ghost2} alt="sailsbib market perspective aero" />
           </div>
-
-
 
 
         </div>
