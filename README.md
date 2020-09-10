@@ -1,8 +1,10 @@
-# Gatsby Lander
+# Sailsbib Gatsb used to developed 
 
-This is an experimental starter built using [gatsby-theme-codebushi](https://github.com/codebushi/gatsby-theme-codebushi), a theme which uses [Tailwind CSS](https://tailwindcss.com/).
+This is an site is built using gatsby & uses tailwindcss 
 
-Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters and templates.
+![Web Application Running Gatsby](https://p1.f0.n0.cdn.getcloudapp.com/items/Qwu0zWEr/Screenshot_2020-09-09%20Sailsbib%20Market%20analysis%20perspective%281%29.png?source=viewer&v=c04669c7a702a339b2ed79ed0b7c0279)
+
+Check out sailsbib.com for live preview.
 
 ## Preview
 
@@ -12,6 +14,5 @@ https://sailsbib.com/
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
 <br/>
-`gatsby new gatsby-starter-lander https://github.com/codebushi/gatsby-starter-lander`
 
 Run `gatsby develop` in the terminal to start the dev site.
