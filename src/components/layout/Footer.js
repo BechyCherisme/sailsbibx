@@ -17,6 +17,9 @@ const Footer = () => (
           <li>
            <a href="https://pdfhost.io/v/lqRyZLhUZ_Privacy_Policy_for_sailsbib1pdf.pdf"target="_blank">Privacy Policy </a>
           </li>
+          <li>
+           <a href="mailto:info@sailsbib.com"target="_blank">info@sailsbib.com</a>
+          </li>
         </ul>
       </div>
       <div className="flex-1 px-3">
