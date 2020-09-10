@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Footer = () => (
-  <footer className="container mx-auto py-16 px-3 mt-48 mb-8 text-gray-800">
+  <footer className="container bg-white shadow mx-auto py-16 px-12 mt-48 mb-8 text-gray-800">
     <div className="flex -mx-3">
       <div className="flex-1 px-3">
         <h2 className="text-lg font-semibold">About Us</h2>
@@ -18,7 +18,7 @@ const Footer = () => (
            <a href="https://pdfhost.io/v/lqRyZLhUZ_Privacy_Policy_for_sailsbib1pdf.pdf"target="_blank">Privacy Policy </a>
           </li>
           <li>
-           <a href="mailto:info@sailsbib.com"target="_blank">info@sailsbib.com</a>
+           <a href="mailto:info@sailsbib.com"target="_blank">Contact Us</a>
           </li>
         </ul>
       </div>
