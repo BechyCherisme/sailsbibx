@@ -1,4 +1,4 @@
-# Sailsbib Gatsb used to developed 
+# Sailsbib running Gatsby CLI, built with Gatsby development server 
 
 This is an site is built using gatsby & uses tailwindcss 
 
